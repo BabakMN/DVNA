@@ -9,7 +9,7 @@ Please note, there are **both documented and undocumented vulnerability** with t
 
 ## WARNING!
 
-Damn Vulnerable Node Application is damn vulnerable! **Do not upload it to your hosting provider's public html folder or any Internet facing servers**, as they will be compromised. It is recommend using a virtual machine (such as [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/)), which is set to NAT networking mode. Inside a guest machine, you can downloading and install [XAMPP](https://www.apachefriends.org/en/xampp.html) for the web server and database.
+Damn Vulnerable Node Application is damn vulnerable! **Do not upload it to your hosting provider's public html folder or any Internet facing servers**, as they will be compromised. It is recommend using a virtual machine (such as [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/)), which is set to NAT networking mode. Inside a guest machine, you can download and install [XAMPP](https://www.apachefriends.org/en/xampp.html) for the web server and database.
 
 ### Disclaimer
 
